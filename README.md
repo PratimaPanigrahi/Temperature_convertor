@@ -30,18 +30,27 @@ A simple, stylish, and responsive web application that allows users to convert t
 2. Open `index.html` in any browser
 
 ```bash
-git clone https://github.com/your-username/temperature-converter.git
+git clone https://github.com/PratimaPanigrahi/Temperature_convertor.git
 
 ```
 ## 🖼️ Screens Overview
 
 ### 1. 🏁 Start Page [Screenshot]
 -	On Run 
-<img src=""  width="340" height="400"/>
-  &nbsp;
-  <img src=""  width="340" height="400"/>
+<img src="MAIN.png"  width="400" height="500"/>
+&nbsp;
+<img src="after.png"  width="400" height="500"/>
 
+---
 
+### 📘 What I Learned
+- Built a clean, responsive UI using HTML, CSS, and JS.
+- Applied custom gradients, shadows, and font styling.
+- Implemented accurate temperature conversion logic.
+- Handled user input and real-time result display.
+- Improved UX with visual feedback and button effects.
+
+---
 ## 📄 License
 
 This project is open-source and free to use. Customize as you like!
