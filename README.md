@@ -17,10 +17,10 @@ A simple, stylish, and responsive web application that allows users to convert t
 ---
 
 ### 🛠️ Tech Stack
-- HTML – Page structure
-- CSS – Styling with gradients and animations
-- JavaScript – Logic for temperature conversion
-- Google Fonts (Inter) – Clean, modern typography
+- **HTML** – Page structure
+- **CSS** – Styling with gradients and animations
+- **JavaScript** – Logic for temperature conversion
+- **Google Fonts** - (Inter) – Clean, modern typography
 
 ---
 
